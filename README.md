@@ -1,5 +1,5 @@
 # GADSI
-Repository to store Kickstarter Data Analytics
+Repository to store a quick Kickstarter data analytics
 
 Presentation Link: https://docs.google.com/presentation/d/1jCH8kWA-IT59TZlu-wddgK7LMlFL2lezPSlIqdVFVHo/edit?usp=sharing
 
